@@ -532,7 +532,9 @@ strong {
   #username {
     top: 90%;
   }
-
+  body > footer > section.footer1 > div:nth-child(2) > img {
+    width: 100%;
+  }
   #footerspace {
     height: 1300px !important;
   }
