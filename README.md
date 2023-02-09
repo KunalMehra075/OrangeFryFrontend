@@ -2,7 +2,7 @@
 
 ### ProjectCode - tame-ink-7589
 
-Orangefry.com --> Clone of pepperfry.com
+https://orangefry.netlify.app/ --> Clone of pepperfry.com
 
 ![Orangefrylogo](https://user-images.githubusercontent.com/112753481/213991299-a2c6fe60-d6e2-4238-b8e2-552d61519352.png)
 
