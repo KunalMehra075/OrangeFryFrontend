@@ -1,4 +1,4 @@
-let BaseURL = "https://pink-crazy-rhinoceros.cyclic.app/";
+let BaseURL = "http://localhost:4500";
 
 let pre1 = document.getElementById("pre1");
 let pre2 = document.getElementById("pre2");
