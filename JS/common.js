@@ -1,4 +1,4 @@
-let baseURL = "https://orangefry.netlify.app";
+let baseURL = "https://orange-fry-backend.vercel.app";
 let spinner = document.getElementById("spinner");
 let closetop1 = document.getElementById("close-top1");
 let topfirst = document.getElementById("top1");

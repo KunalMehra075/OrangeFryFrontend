@@ -401,7 +401,7 @@ async function Googlelogout() {
   spinner.style.display = "block"; //!Spinner
   sessionStorage.clear();
   localStorage.clear();
-  let baseURL = "https://orangefry.netlify.app";
+  let baseURL = "https://orange-fry-backend.vercel.app";
   try {
     await fetch(`${baseURL}/google/logout`, {
       method: "GET",

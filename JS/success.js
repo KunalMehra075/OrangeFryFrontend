@@ -21,7 +21,7 @@ if (params.successId) {
     }
 }
 async function GoogleLoginFunction(id) {
-    let baseURL = "https://orangefry.netlify.app";
+    let baseURL = "https://orange-fry-backend.vercel.app";
     try {
         let res = await fetch(`${baseURL}/google/login`, {
             method: "POST",

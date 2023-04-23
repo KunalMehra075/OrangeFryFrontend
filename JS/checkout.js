@@ -1,5 +1,5 @@
-let BaseURL = "https://orangefry.netlify.app";
-// https://orangefry.netlify.app
+let BaseURL = "https://orange-fry-backend.vercel.app";
+
 let pre1 = document.getElementById("pre1");
 let pre2 = document.getElementById("pre2");
 let collapse1 = document.getElementById("collapseOne");
