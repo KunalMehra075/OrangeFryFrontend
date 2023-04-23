@@ -1,5 +1,5 @@
-let BaseURL = "https://pink-crazy-rhinoceros.cyclic.app/";
-
+let BaseURL = "https://orangefry.netlify.app";
+// https://orangefry.netlify.app
 let pre1 = document.getElementById("pre1");
 let pre2 = document.getElementById("pre2");
 let collapse1 = document.getElementById("collapseOne");

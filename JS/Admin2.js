@@ -1,4 +1,4 @@
-let baseURL = "https://pink-crazy-rhinoceros.cyclic.app/";
+let baseURL = "https://orangefry.netlify.app";
 let Initiator = JSON.parse(sessionStorage.getItem("current-user"));
 let Editscontainer = document.getElementById("ThreeCardContainerX");
 let EditSecitonBlock = document.getElementById("EditSecitonBlock");
